@@ -1,0 +1,15 @@
+C:\Users\vista\AppData\Local\Temporary Projects\TPascal\bin\Debug\TPascal.exe
+C:\Users\vista\AppData\Local\Temporary Projects\TPascal\bin\Debug\TPascal.pdb
+C:\Users\vista\AppData\Local\Temporary Projects\TPascal\obj\x86\Debug\TPascal.Form1.resources
+C:\Users\vista\AppData\Local\Temporary Projects\TPascal\obj\x86\Debug\TPascal.Properties.Resources.resources
+C:\Users\vista\AppData\Local\Temporary Projects\TPascal\obj\x86\Debug\TPascal.csproj.GenerateResource.Cache
+C:\Users\vista\AppData\Local\Temporary Projects\TPascal\obj\x86\Debug\TPascal.exe
+C:\Users\vista\AppData\Local\Temporary Projects\TPascal\obj\x86\Debug\TPascal.pdb
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Debug\TPascal.exe
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Debug\TPascal.pdb
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\bin\Debug\TPascal.exe
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\bin\Debug\TPascal.pdb
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Debug\TPascal.Form1.resources
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Debug\TPascal.Properties.Resources.resources
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Debug\TPascal.csproj.GenerateResource.Cache
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Debug\TPascal.csprojResolveAssemblyReference.cache

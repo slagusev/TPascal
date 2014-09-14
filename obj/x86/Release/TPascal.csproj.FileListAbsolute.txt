@@ -1,0 +1,8 @@
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Release\TPascal.Form1.resources
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Release\TPascal.Properties.Resources.resources
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Release\TPascal.csproj.GenerateResource.Cache
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\bin\Release\TPascal.exe
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\bin\Release\TPascal.pdb
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\bin\Release\FastColoredTextBox.dll
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Release\TPascal.exe
+C:\Users\vista\documents\visual studio 2010\Projects\TPascal\TPascal\obj\x86\Release\TPascal.pdb
